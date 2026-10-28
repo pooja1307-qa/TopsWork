@@ -1,0 +1,9 @@
+Pick any one app you use daily (like Zomato, Instagram, or Paytm) and briefly map each SDLC phase (Requirement, Design, Development, Testing, Deployment, Maintenance) to a real feature or event in that app’s development.
+Anwert 
+
+2.
+Create a comparison table listing at least 3 key differences between the Waterfall, Agile, and Spiral SDLC models, focusing on flexibility, customer feedback, and risk handling.<br><br><em><strong>Hint:</strong> Use real-world examples from apps like Flipkart or Swiggy to illustrate each point.</em>
+3.
+Write a set of entry and exit criteria for the 'Add to Cart' feature in a Flipkart-style shopping app. Include at least 2 criteria for each.
+4.
+Imagine you are testing the 'Book Ticket' feature in a BookMyShow-like app. Decide when you would start and stop testing for this feature, and explain your reasoning in 2-3 sentences.<br><br><em><strong>Hint:</strong> Consider dependencies, feature readiness, and bug fixing cycles.</em>
