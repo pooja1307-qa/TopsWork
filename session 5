@@ -1,0 +1,29 @@
+1.Pick any app you use daily (like Instagram, Zomato, or Paytm) and list 3 specific tasks a QA tester would do and 3 tasks a QC tester would do for that app.
+
+QA = Bugs aane se rokna.
+QC = Bugs ko find karna.
+
+
+2.Create a table comparing QA and QC roles in software testing with at least 4 points each, focusing on their responsibilities, activities, and impact on the final app quality.
+      QA	                                 QC
+1. Process improve karta hai      	Product check karta hai
+2. Bugs prevent karta hai          	Bugs detect karta hai
+
+
+3.Write a short scenario (4-5 lines) showing the difference between testing and debugging, using a bug example from a food delivery or payment app.
+Tester Zomato app mein payment test karta hai.
+Payment successful hone ke baad bhi order confirm nahi hota.
+Tester bug find karke report karta hai. 
+Developer code check karke problem ka reason find karta hai.
+Developer bug fix karta hai. 
+
+
+4.Imagine you are a tester for a new movie ticket booking app. List 3 ways you would think 'destructively' to find bugs that a developer might miss.<br><br><em><strong>Hint:</strong> Consider edge cases like invalid inputs or unexpected user actions.</em>
+Invalid Input: Payment mein wrong card details enter karna.
+Double Booking: Same seat ko 2 users se ek saath book karna.
+Unexpected Action: Payment ke time internet off kar dena.
+
+
+5.Interview a friend or use ChatGPT to ask: 'Why is it important for testers to have a different mindset than developers?' Summarize the top 2 points you learn in your own words.
+
+Developer app ko banane aur sahi chalane par focus karta hai, jabki tester app mein hidden bugs find karta hai.
