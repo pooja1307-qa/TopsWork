@@ -1,0 +1,16 @@
+1.Download or open a sample SRS document for a popular app you use (like Zomato, Paytm, or Instagram — search online for 'sample SRS for [app name]'), and list 8 clear test conditions you would derive as a QA tester from the 'Functional Requirements' section.
+ans
+1. Verify that users can register successfully.
+2. Verify that users can log in with valid credentials.
+3. Verify that users can search restaurants by location.
+4. Verify that users can filter restaurants by cuisine.
+5. Verify that users can view restaurant menus.
+6. Verify that users can add food items to the cart.
+7. Verify that users can place orders successfully.
+8. Verify that users can track their orders.
+
+
+2.Given this requirement: 'The system shall allow users to search restaurants by cuisine and location,' write 4 possible test cases (inputs and expected results) you would execute to verify this feature, referencing the requirement ID if available.
+3.Create a simple 'Playlist' class in any programming language you know, with properties like name, songs (array), and creator. Add a method addSong(songName) and explain in 2 lines why understanding classes and objects helps testers when reading developer code.
+4.Write 10 different SQL SELECT queries for a 'movies' table (columns: id, title, genre, rating, release_year) to do things like: fetch all movies, fetch only 'Action' genre movies, get movies released after 2020, get top 3 highest-rated movies, etc.<br><br><em><strong>Hint:</strong> Use WHERE, ORDER BY, LIMIT, and LIKE in your queries.</em>
+5.Pick any one requirement from a sample SRS and describe how you would use a basic SQL SELECT query to check if the backend data supports that requirement (for example, verifying that all genres listed in the app exist in the 'genres' table).
