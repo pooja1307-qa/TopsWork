@@ -1,0 +1,28 @@
+1.Pick any app you use daily (like Zomato, Instagram, Flipkart, or Paytm) and write 5 real-world test scenarios for it, then label each as either Functional or Non-Functional.
+ans- 1. User login kar pa raha hai ya nahi	
+2. Restaurant search ho raha hai ya nahi	
+3. Food order place ho raha hai ya nahi	
+4.  App slow internet par bhi sahi chal raha hai ya 
+
+2.Given these 8 scenarios for a food delivery app — 1) User can search restaurants, 2) App loads home screen in under 2 seconds, 3) Payment gateway processes payments, 4) App supports 5 languages, 5) Order tracking updates in real-time, 6) App prevents duplicate orders, 7) UI adapts to dark mode, 8) Password reset via OTP — classify each as Functional or Non-Functional and explain why.
+1. Restaurant search	Functional	Search feature check
+2. Home screen under 2 sec	Non-Functional	Speed check
+3. Payment process	Functional	Payment feature check
+4. Supports 5 languages	Functional	Language options check
+5. Real-time order tracking	Functional	Tracking updates check
+6. Prevent duplicate orders	Functional	Same order repeat na ho
+7. Dark mode UI	Functional	Dark mode feature check
+8. Password reset OTP	Functional	Password reset check
+
+
+3.List and briefly explain the 7 Key Principles of Testing in your own words, then pick any 2 and give a practical example of each from an app you use.
+1. Testing shows defects: Testing se bugs ka pata chalta hai.
+2. Exhaustive testing impossible: Har possible test karna possible nahi hai.
+3. Early testing: Testing jaldi start karni chahiye.
+4. Defect clustering: Zyada bugs kuch hi modules mein milte hain.
+5. Pesticide paradox: Same tests repeat karne se naye bugs kam milte hain, isliye tests update karo.
+6. Testing is context dependent: Har app ki testing alag hoti hai.
+7. Absence of errors fallacy: Bug na hone ka matlab app perfect nahi hai.
+
+
+4.You are given 6 test scenarios for a movie ticket booking app: 1) User can select seats, 2) App handles 10,000 users at once, 3) Ticket confirmation email is sent, 4) UI is accessible for visually impaired, 5) Payment fails gracefully, 6) App recovers from server crash. For each, specify which testing methodology (like Functional, Performance, Usability, Reliability, Security, etc.) is most relevant and justify your choice.<br><br><em><strong>Hint:</strong> Think beyond just Functional/Non-Functional — use specific types where possible.<
